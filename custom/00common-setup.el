@@ -20,7 +20,7 @@
 (windmove-default-keybindings) 
 
 ;; Available fonts: "Fira Mono", "Source Code Pro"
-(set-frame-font "Source Code Pro")
+(set-frame-font "Fira Mono")
 
 ;; Set font size: Fira Mono: 140, Source Code Pro: 150
 (set-face-attribute 'default nil :height 120)
