@@ -19,7 +19,11 @@
 ;; Navigate between windows using Alt-1, Alt-2, Shift-left, shift-up, shift-right
 (windmove-default-keybindings) 
 
-(set-frame-font "Fira Mono")
+;; Available fonts: "Fira Mono", "Source Code Pro"
+(set-frame-font "Source Code Pro")
+
+;; Set font size: Fira Mono: 140, Source Code Pro: 150
+(set-face-attribute 'default nil :height 150)
 
 ;; Display continuous lines
 (setq-default truncate-lines nil)

@@ -24,7 +24,7 @@
 (load "17move-text.el")
 
 (add-to-list 'load-path "~/.emacs.d/snippets/emacs-elixir/")
-(set-face-attribute 'default nil :height 140)
+
 (require 'elixir-mode)
 
 (when (>= emacs-major-version 24)
