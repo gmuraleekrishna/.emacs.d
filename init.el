@@ -1,4 +1,7 @@
-(require 'cask "/usr/local/Cellar/cask/0.7.2/cask.el")
+;; For Mac
+;; (require 'cask "/usr/local/Cellar/cask/0.7.2/cask.el")
+;; For Linux
+(require 'cask "~/.cask/cask.el")
 (cask-initialize)
 (require 'pallet)
 
@@ -27,6 +30,7 @@
 
 (require 'elixir-mode)
 
+;; List all the available packages using M-x list-packages
 (when (>= emacs-major-version 24)
   (require 'package)
   (package-initialize)

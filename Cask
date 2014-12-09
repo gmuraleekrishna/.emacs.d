@@ -29,7 +29,6 @@
 (depends-on "helm-projectile")
 (depends-on "highlight")
 (depends-on "highlight-indentation")
-(depends-on "idle-highlight")
 (depends-on "ido-vertical-mode")
 (depends-on "inf-ruby")
 (depends-on "js2-mode")

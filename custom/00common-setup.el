@@ -23,7 +23,7 @@
 (set-frame-font "Source Code Pro")
 
 ;; Set font size: Fira Mono: 140, Source Code Pro: 150
-(set-face-attribute 'default nil :height 150)
+(set-face-attribute 'default nil :height 120)
 
 ;; Display continuous lines
 (setq-default truncate-lines nil)
