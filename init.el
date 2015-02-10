@@ -28,8 +28,6 @@
 
 (add-to-list 'load-path "~/.emacs.d/snippets/emacs-elixir/")
 
-(require 'elixir-mode)
-
 ;; List all the available packages using M-x list-packages
 (when (>= emacs-major-version 24)
   (require 'package)
