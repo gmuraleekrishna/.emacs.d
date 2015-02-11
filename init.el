@@ -26,7 +26,6 @@
 (load "16projectile-rails.el")
 (load "17move-text.el")
 
-(add-to-list 'load-path "~/.emacs.d/snippets/emacs-elixir/")
 
 ;; List all the available packages using M-x list-packages
 (when (>= emacs-major-version 24)
