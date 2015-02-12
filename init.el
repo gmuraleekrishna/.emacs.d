@@ -26,6 +26,7 @@
 (load "16projectile-rails.el")
 (load "17move-text.el")
 
+(toggle-frame-fullscreen)
 
 ;; List all the available packages using M-x list-packages
 (when (>= emacs-major-version 24)
