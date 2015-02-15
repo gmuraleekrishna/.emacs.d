@@ -1,7 +1,7 @@
 .emacs.d
 ========
 
-Emacs configuration based on based on my friend, [Tactician Kerala's Emacs Config](https://github.com/tacticiankerala/.emacs.d). Modification in theme and font only. 
+Emacs configuration based on based on my friend, [Tactician Kerala's Emacs Config](https://github.com/tacticiankerala/.emacs.d).
 
 Supports emacs v24.4+ (Some features may not work in lower versions)
 
