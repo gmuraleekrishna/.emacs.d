@@ -3,7 +3,7 @@
 
 Emacs configuration based on based on my friend, [Tactician Kerala's Emacs Config](https://github.com/tacticiankerala/.emacs.d). Modification in theme and font only. 
 
-Supports emacs v24.3+.
+Supports emacs v24.4+ (Some features may not work in lower versions)
 
 Want to know how it looks? Here it is:
 
