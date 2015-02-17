@@ -33,6 +33,9 @@
 (tool-bar-mode -1)
 ;;(enable-theme 'gotham-theme)
 (load-theme 'gotham t)
+;;(load-theme 'afternoon t)
+;;(load-theme 'atom-dark)
+
 ;; trucate even even when screen is split into multiple windows
 (setq-default truncate-partial-width-windows nil)
 
