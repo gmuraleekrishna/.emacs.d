@@ -1,4 +1,4 @@
-;;remove initial welcome screen
+1;;remove initial welcome screen
 (setq inhibit-startup-message t)
 
 ;; Set the starting position and width and height of Emacs Window
@@ -32,10 +32,11 @@
 (menu-bar-mode t)
 (tool-bar-mode -1)
 ;;(enable-theme 'gotham-theme)
-(load-theme 'gotham t)
+;;(enable-theme 'firebelly)
+(load-theme 'firebelly  )
 ;;(load-theme 'afternoon t)
 ;;(load-theme 'atom-dark)
-
+;;(load-theme 'gotham-theme)
 ;; trucate even even when screen is split into multiple windows
 (setq-default truncate-partial-width-windows nil)
 
