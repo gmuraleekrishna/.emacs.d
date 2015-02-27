@@ -11,7 +11,7 @@ Want to know how it looks? Here it is:
 
 ### Installation
 
-I prefer to start from the very beginning. Install emacs 24.4:
+I prefer to start from the very beginning. Install emacs 24.4
 
     mkdir emacs-src && cd emacs-src
     wget http://mirror.team-cymru.org/gnu/emacs/emacs-24.4.tar.gz
